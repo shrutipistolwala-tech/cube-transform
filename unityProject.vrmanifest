@@ -5,7 +5,7 @@
       "app_key": "application.generated.unity.cubetransfrom.exe",
       "launch_type": "url",
       "url": "steam://launch/",
-      "action_manifest_path": "C:\\cube-transform\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "action_manifest_path": "C:\\Users\\narvis\\OneDrive\\Desktop\\cube-transform\\Assets\\StreamingAssets\\SteamVR\\actions.json",
       "strings": {
         "en_us": {
           "name": "Cube Transfrom [Testing]"
